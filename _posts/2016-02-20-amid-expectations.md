@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T22:25:59.283Z'
-dateModified: '2016-02-20T22:19:16.012Z'
+datePublished: '2016-02-20T23:46:45.707Z'
+dateModified: '2016-02-20T23:46:45.442Z'
 author: []
 title: 'Amid expectations '
 sourcePath: _posts/2016-02-20-amid-expectations.md
@@ -24,3 +24,12 @@ _type: Article
 
 ---
 # Amid expectations ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df5ee0eeed30b5517188082665795e32c7152340.png)
+
+Plants have a number of sophisticated uses for light that go far beyond their ability to perform photosynthesis.
+Plants can differentiate and develop in response to light (known as 
+photomorphogenesis), which allows plants to optimize their use of light 
+and space. Plants use light to track time, which is known as 
+photoperiodism. They can tell the time of day and time of year by 
+sensing and using various wavelengths of sunlight. Light can also elicit
+a directional response in plants that allows them to grow toward, or 
+even away from, light; this is known as phototropism.

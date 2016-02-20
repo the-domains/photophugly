@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3749274
+color:
+  lightness: 0
+  brandStrength: 0.3263566
+  saturation: 0.5638298
+  rhythmicContrast: 0.2626108
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Photophugly

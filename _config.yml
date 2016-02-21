@@ -1,29 +1,41 @@
-name: Photophugly
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3749274
 title: A Photo Phugly adventure in imaging
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.7978724
+favicon: null
+name: Photophugly
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.5638298
+  rhythmicContrast: 0.2626108
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3263566
-  lightness: 0
-  saturation: 0.5638298
-  rhythmicContrast: 0.2626108
-purpose: []
+typography_spectrum: 0.3749274

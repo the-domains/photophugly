@@ -4,8 +4,15 @@
         <description><![CDATA[A Photo Phugly adventure in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:09:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b341b420-f528-4aeb-9980-a5fa8155c6c1.png">]]></description>
+            <link>https://thegrid.ai/photophugly/4d957441-4aed-4567-8334-91557e88ee39/index.html</link>
+            <guid isPermaLink="false">4d957441-4aed-4567-8334-91557e88ee39</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paradoxes]]></title>
             <description><![CDATA[<article><h1>Paradoxes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8de91cbd16c7f6dd9353ef1271ab6ac6350307cb.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b4fcba-02de-44a6-b8c2-d546bf6ea597.png">]]></description>
             <link>https://thegrid.ai/photophugly/4a9a5cce-a0d5-4751-8e9e-7390d95501dd/index.html</link>
             <guid isPermaLink="false">4a9a5cce-a0d5-4751-8e9e-7390d95501dd</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7179b50-2a17-4857-88d2-8a5f021661b2.png">]]></description>
-            <link>https://thegrid.ai/photophugly/bf69c2ed-71ac-46fa-a3c5-27543a0ff10f/index.html</link>
-            <guid isPermaLink="false">bf69c2ed-71ac-46fa-a3c5-27543a0ff10f</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
         </item>
     </channel>

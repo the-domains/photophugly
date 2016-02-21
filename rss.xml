@@ -4,8 +4,15 @@
         <description><![CDATA[A Photo Phugly adventure in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:09:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paradoxes]]></title>
+            <description><![CDATA[<article><h1>Paradoxes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8de91cbd16c7f6dd9353ef1271ab6ac6350307cb.png"></article>]]></description>
+            <link>https://thegrid.ai/photophugly/paradoxes/index.html</link>
+            <guid isPermaLink="false">c503b1c0-d743-4573-b838-23fe6fd50044</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bento box]]></title>
             <description><![CDATA[<article><h1>Bento box</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7f209be9e32135f9d76e49a77d990db09b9ceee.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7179b50-2a17-4857-88d2-8a5f021661b2.png">]]></description>
             <link>https://thegrid.ai/photophugly/bf69c2ed-71ac-46fa-a3c5-27543a0ff10f/index.html</link>
             <guid isPermaLink="false">bf69c2ed-71ac-46fa-a3c5-27543a0ff10f</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b8ead6-94d5-4204-a384-0a7edaf54aef.png">]]></description>
-            <link>https://thegrid.ai/photophugly/9873afb8-58eb-4c35-b6a5-55afc0b0e110/index.html</link>
-            <guid isPermaLink="false">9873afb8-58eb-4c35-b6a5-55afc0b0e110</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
         </item>
     </channel>

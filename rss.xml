@@ -4,7 +4,7 @@
         <description><![CDATA[Photo Phugly - Adventures in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:16:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photophugly]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e719812cab114115bcf96a730c3425889478b08.png" alt="" title="">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa4adfa1-3c1d-4a82-a2d7-2778cd72c670.png</link>
+            <guid isPermaLink="false">84566b1f-a3e7-4e87-9b1c-b6462b6a8f68</guid>
+            <pubDate>Sun, 21 Feb 2016 03:16:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Privacy]]></title>
-            <description><![CDATA[<article><h1>Privacy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd86e0779da495e65319aca4085c33222db7b7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Privacy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/491c30adbed9b493c483781f9051a63a1097f11e.png"></article>]]></description>
             <link>urn:uuid:d2886be5-d013-4c4c-987a-d7441450ac33</link>
             <guid isPermaLink="false">619f56b8-4ef7-4785-bf9d-10267dab3867</guid>
             <pubDate>Sun, 21 Feb 2016 03:11:44 GMT</pubDate>
@@ -73,13 +80,6 @@ Encourage the nurturing side of your child with this class that explores
             <link>https://thegrid.ai/photophugly/4d957441-4aed-4567-8334-91557e88ee39/index.html</link>
             <guid isPermaLink="false">4d957441-4aed-4567-8334-91557e88ee39</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paradoxes]]></title>
-            <description><![CDATA[<article><h1>Paradoxes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8de91cbd16c7f6dd9353ef1271ab6ac6350307cb.png"></article>]]></description>
-            <link>https://thegrid.ai/photophugly/paradoxes/index.html</link>
-            <guid isPermaLink="false">c503b1c0-d743-4573-b838-23fe6fd50044</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

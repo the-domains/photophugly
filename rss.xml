@@ -4,7 +4,7 @@
         <description><![CDATA[Photo Phugly - Adventures in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:14:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Photophugly]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/158c2ddc-872a-4e0a-9db3-98406e01add6.png</link>
             <guid isPermaLink="false">32426238-cad0-4716-9acb-93926b52b0b2</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privacy]]></title>
+            <description><![CDATA[<article><h1>Privacy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd86e0779da495e65319aca4085c33222db7b7.png"></article>]]></description>
+            <link>urn:uuid:d2886be5-d013-4c4c-987a-d7441450ac33</link>
+            <guid isPermaLink="false">619f56b8-4ef7-4785-bf9d-10267dab3867</guid>
+            <pubDate>Sun, 21 Feb 2016 03:11:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -72,13 +79,6 @@ Encourage the nurturing side of your child with this class that explores
             <description><![CDATA[<article><h1>Paradoxes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8de91cbd16c7f6dd9353ef1271ab6ac6350307cb.png"></article>]]></description>
             <link>https://thegrid.ai/photophugly/paradoxes/index.html</link>
             <guid isPermaLink="false">c503b1c0-d743-4573-b838-23fe6fd50044</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bento box]]></title>
-            <description><![CDATA[<article><h1>Bento box</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7f209be9e32135f9d76e49a77d990db09b9ceee.png"></article>]]></description>
-            <link>https://thegrid.ai/photophugly/bento-box/index.html</link>
-            <guid isPermaLink="false">4363c70a-be12-4174-994b-9838af47ca53</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
         </item>
     </channel>

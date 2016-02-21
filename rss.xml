@@ -4,8 +4,15 @@
         <description><![CDATA[A Photo Phugly adventure in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seduction]]></title>
+            <description><![CDATA[<article><h1>Seduction</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36c16a6fb3850201f3b16c222abcd836dfa5d083.png"></article>]]></description>
+            <link>https://thegrid.ai/photophugly/seduction/index.html</link>
+            <guid isPermaLink="false">c439b0c7-072a-4d55-bf21-83d35525bcaa</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a496ee4b-c6cd-4b7e-a34e-3e2ebd5a0712.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24f83b1e-ffc4-4c86-9ec5-8ebbc3f72868.png">]]></description>
             <link>https://thegrid.ai/photophugly/c5d56dff-73d6-4d3e-aa56-edce640a871b/index.html</link>
             <guid isPermaLink="false">c5d56dff-73d6-4d3e-aa56-edce640a871b</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b43de2b-b24f-487c-a853-a97e75545896.png">]]></description>
-            <link>https://thegrid.ai/photophugly/1e96ddad-4701-4f79-98da-2f0ad632eafd/index.html</link>
-            <guid isPermaLink="false">1e96ddad-4701-4f79-98da-2f0ad632eafd</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
         </item>
     </channel>

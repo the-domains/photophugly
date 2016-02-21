@@ -4,8 +4,15 @@
         <description><![CDATA[A Photo Phugly adventure in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:08:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deer John bumper sticker]]></title>
+            <description><![CDATA[<article><h1>Deer John bumper sticker</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bff537233265f051d388fa868b970a076ce0433a.png"></article>]]></description>
+            <link>https://thegrid.ai/photophugly/deer-john-bumper-sticker/index.html</link>
+            <guid isPermaLink="false">4963afb2-aa0e-49f9-8552-2a1c53baebbd</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/027fa18b-78d6-4912-83b3-bcd0009918da.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7453f1a-1d09-46c9-be2b-dc3f91563089.png">]]></description>
             <link>https://thegrid.ai/photophugly/08b5b58e-7c94-484b-965f-b7b0b22ad54b/index.html</link>
             <guid isPermaLink="false">08b5b58e-7c94-484b-965f-b7b0b22ad54b</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d796dce0-c325-4e2d-83c7-6a0b530e819a.png">]]></description>
-            <link>https://thegrid.ai/photophugly/f1dfc83b-7a44-402c-ab8e-985a733aa921/index.html</link>
-            <guid isPermaLink="false">f1dfc83b-7a44-402c-ab8e-985a733aa921</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
         </item>
     </channel>

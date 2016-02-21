@@ -4,8 +4,22 @@
         <description><![CDATA[A Photo Phugly adventure in imaging]]></description>
         <link>https://thegrid.ai/photophugly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 03:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 03:08:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photophugly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7179b50-2a17-4857-88d2-8a5f021661b2.png">]]></description>
+            <link>https://thegrid.ai/photophugly/bf69c2ed-71ac-46fa-a3c5-27543a0ff10f/index.html</link>
+            <guid isPermaLink="false">bf69c2ed-71ac-46fa-a3c5-27543a0ff10f</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b8ead6-94d5-4204-a384-0a7edaf54aef.png">]]></description>
+            <link>https://thegrid.ai/photophugly/9873afb8-58eb-4c35-b6a5-55afc0b0e110/index.html</link>
+            <guid isPermaLink="false">9873afb8-58eb-4c35-b6a5-55afc0b0e110</guid>
+            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24f83b1e-ffc4-4c86-9ec5-8ebbc3f72868.png">]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acdc091-1a8b-463a-a8c2-dd1f4bb3d5f6.png">]]></description>
             <link>https://thegrid.ai/photophugly/ae85dc8e-85e9-4028-86e3-433d0ba54ede/index.html</link>
             <guid isPermaLink="false">ae85dc8e-85e9-4028-86e3-433d0ba54ede</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea004cbc-f9c9-4eeb-9997-7ced64ff718c.png">]]></description>
-            <link>https://thegrid.ai/photophugly/297f6241-addb-4755-accb-505b4a0c0be3/index.html</link>
-            <guid isPermaLink="false">297f6241-addb-4755-accb-505b4a0c0be3</guid>
-            <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Privacy]]></title>
-            <description><![CDATA[<article><h1>Privacy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd86e0779da495e65319aca4085c33222db7b7.png"></article>]]></description>
-            <link>https://thegrid.ai/photophugly/privacy/index.html</link>
-            <guid isPermaLink="false">619f56b8-4ef7-4785-bf9d-10267dab3867</guid>
             <pubDate>Sun, 21 Feb 2016 03:07:17 GMT</pubDate>
         </item>
     </channel>
